@@ -1,7 +1,7 @@
 # Dataleum-Sales-Performance-Analysis
 ![](Data/bus.png)
 
-I took the role of an Analyst at a Home improvement retailer, they sell a variety of Equipment and suppiles for home project including tools, appliances, and home decor. I am to provid insights on the company's sales perfomabce from January to May, 5 months transactional data.
+I took the role of an Analyst at a Home improvement retailer, they sell a variety of Equipment and suppiles for home project including tools, appliances, and home decor. I am to provide insights on the company's sales performance from January to May .
 
 ## In this Sales Performance Analysis Report, I provided insights like:
 * Top Average Value Order by State 
