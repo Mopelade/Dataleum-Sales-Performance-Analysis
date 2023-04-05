@@ -26,3 +26,6 @@ The total revenue generated is $44,365,028 and total order, 20,000. The top 5 st
 ### The current sales performance
 The best performing products are clocks and vases, clocks generated $1,097,417 and made $313,540, while vases generated $1,061,440 and made a profit of $303,269. The lest perfoming product is Bathroom Furniture, generated $844,194 and made a profit0f $241,193.The company generated the most in the month of January $9,069,089, accounting for 20.44% of the total revenue, the least month is Febuary, the company made $8,557,316, a percentage of 19.52%. 
 The company made the most revenue for caliornia state by $8,905,082, comprising of 20.7% and got 3,005 orders, the least state is Arkamas with a sum of $83,038 and 41 0rders.
+
+## What is the most effective sales channel?
+All of the company's sales channels are effective, the difference between the sales channel that generated the most and the least is not much, about $500,000 difference. The most effective sales channel is Online sales channel, the company generated $11,245,807, accounting for 25.25% of the entire revenue, while the least is Wholesale, generated $10,964,451 from the channel and comprise of 24.71% of the total revenue .
