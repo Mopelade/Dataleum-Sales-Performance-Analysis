@@ -1,5 +1,6 @@
 # Dataleum-Sales-Performance-Analysis
-![](New folder/sales.jpg)
+![](Data/bus.png)
+
 I took the role of an Analyst at a Home improvement retailer, they sell a variety of Equipment and suppiles for home project including tools, appliances, and home decor. I am to provid insights on the company's sales perfomabce from January to May, 5 months transactional data.
 
 ## In this Sales Performance Analysis Report, I provided insights like:
@@ -17,9 +18,6 @@ I took the role of an Analyst at a Home improvement retailer, they sell a variet
 ## PowerBI Interactive Dashboard Created for the Analysis
 
 ![](Salesdash.jpg)
-
-
-
 
 ## Summary of Findings
 ### What are the Top State By Average value order ?
