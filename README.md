@@ -1,4 +1,5 @@
 # Dataleum-Sales-Performance-Analysis
+![](New folder/sales.jpg)
 I took the role of an Analyst at a Home improvement retailer, they sell a variety of Equipment and suppiles for home project including tools, appliances, and home decor. I am to provid insights on the company's sales perfomabce from January to May, 5 months transactional data.
 
 ## In this Sales Performance Analysis Report, I provided insights like:
@@ -14,6 +15,8 @@ I took the role of an Analyst at a Home improvement retailer, they sell a variet
 * Designed my dashboard with the reports and most important metrics.
 
 ## PowerBI Interactive Dashboard Created for the Analysis
+
+![](Salesdash.jpg)
 
 
 
