@@ -13,6 +13,7 @@ I took the role of an Analyst at a Home improvement retailer, they sell a variet
 * Wrote few DAX to answer questions
 * Designed my dashboard with the reports and most important metrics.
 
+## PowerBI Interactive Dashboard Created for the Analysis
 
 
 
